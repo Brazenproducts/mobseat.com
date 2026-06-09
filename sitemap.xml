@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mobseat.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://mobseat.com/best-best-mob-bucket-seats-racing-seat-upgrades-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://mobseat.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://mobseat.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://mobseat.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://mobseat.com/how-to-choose-mobseat-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://mobseat.com/mobseat-practical-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://mobseat.com/best-mobseat-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://mobseat.com/mobseat-explained-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://mobseat.com/smart-mobseat-shopping-2026.html</loc><lastmod>2026-05-20</lastmod></url>
-  <url><loc>https://mobseat.com/mobseat-buying-guide-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://mobseat.com/mobseat-reviewed-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://mobseat.com/best-mobseat-without-overpaying.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://mobseat.com/mobseat-what-buyers-need-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://mobseat.com/mobseat-worth-the-upgrade-2026.html</loc><lastmod>2026-05-31</lastmod></url>
-  <url><loc>https://mobseat.com/what-we-look-for-mobseat-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://mobseat.com/no-bs-mobseat-guide-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://mobseat.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
